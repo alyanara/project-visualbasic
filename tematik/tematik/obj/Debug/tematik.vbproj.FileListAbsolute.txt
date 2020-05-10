@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2013\Projects\tematik\tematik\bin\Debug\tematik.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\tematik\tematik\bin\Debug\tematik.exe
+c:\users\asus\documents\visual studio 2013\Projects\tematik\tematik\bin\Debug\tematik.pdb
+c:\users\asus\documents\visual studio 2013\Projects\tematik\tematik\bin\Debug\tematik.xml
+c:\users\asus\documents\visual studio 2013\Projects\tematik\tematik\obj\Debug\tematik.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\tematik\tematik\obj\Debug\tematik.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\tematik\tematik\obj\Debug\tematik.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\tematik\tematik\obj\Debug\tematik.exe
+c:\users\asus\documents\visual studio 2013\Projects\tematik\tematik\obj\Debug\tematik.xml
+c:\users\asus\documents\visual studio 2013\Projects\tematik\tematik\obj\Debug\tematik.pdb
+c:\users\asus\documents\visual studio 2013\Projects\tematik\tematik\obj\Debug\tematik.Form2.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\tematik\tematik\obj\Debug\tematik.Form3.resources
